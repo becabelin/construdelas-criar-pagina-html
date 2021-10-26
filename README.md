@@ -1,3 +1,3 @@
-# construdelas
+# ConstruDelas
 
-primeira atividade feita no curso de fundamentos da programação da academia construdelas que era pra criar uma página html
+Primeira atividade feita no módulo de Fundamentos da Programação que era para criar uma página HTML
